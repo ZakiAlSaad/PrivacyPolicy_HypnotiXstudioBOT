@@ -18,12 +18,6 @@ The official, high-performance Privacy Policy landing page for the **HypnotiXstu
 * **JavaScript** - Custom scroll-reveal logic.
 * **Google Fonts** - Inter font family for high readability.
 
-## 🚀 Deployment
-This page is designed to be hosted via **GitHub Pages**.
-1. Push the code to the `main` branch.
-2. Navigate to **Settings > Pages**.
-3. Select the `main` branch as the source and click **Save**.
-
 ## 📞 Contact
 **Owner:** S. M. ZAKI AL SAAD MARJAN  
 **Studio:** HypnotiXstudio  
